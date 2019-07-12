@@ -49,7 +49,7 @@ const setupGuides = (data) => {
     });
     guideList.innerHTML = html
   } else {
-    guideList.innerHTML = '<h5 class="center-align">Login to view guides</h5>';
+    guideList.innerHTML = '<h5 class="center-align">Log in to view guides</h5>';
   }
   
 
